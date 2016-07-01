@@ -2,11 +2,32 @@
 <items version="2" >
 
     <item
+        jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f815948b6848adb2cac0265d372caa2bbaec1acc">
+        <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f81e3d275805e998ef334de00c9f10c7b8f6e5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_f09149dfe868d30516b6e42dae14f056cd4cabda/classes.dex" />
+    </item>
+    <item
         jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
         sha1="d69a8825ba16c9f46a0c472c5e8c0c52a9fa2cc7">
         <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0470dc04e47ac969347c2180c9c7b5b54af29969/classes.dex" />
+    </item>
+    <item
+        jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_419c1f357ea6b5f28754a01723df7c406c8a3ee9/classes.dex" />
     </item>
     <item
         jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
@@ -21,27 +42,6 @@
         revision="24.0.0"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
         <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ed66e8faaaefa21bb925796a99227b0600074b83/classes.dex" />
-    </item>
-    <item
-        jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_f09149dfe868d30516b6e42dae14f056cd4cabda/classes.dex" />
-    </item>
-    <item
-        jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_419c1f357ea6b5f28754a01723df7c406c8a3ee9/classes.dex" />
-    </item>
-    <item
-        jar="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f815948b6848adb2cac0265d372caa2bbaec1acc">
-        <dex dex="/Users/owlslubic/Clones/Android-Views-Lab-1/starter-code/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2f81e3d275805e998ef334de00c9f10c7b8f6e5f/classes.dex" />
     </item>
     <item
         jar="/Users/owlslubic/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"

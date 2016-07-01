@@ -53,7 +53,9 @@ public class MainActivity extends AppCompatActivity {
         View.OnClickListener buttonClick = new View.OnClickListener() {
 
 
-            public void displayToasts(View view) {
+            @Override
+            public void onClick(View view) {
+
                 switch (view.getId()) {
                     case R.id.button_1:
                         Toast.makeText(view.getContext(), "You clicked 1 and 2!", Toast.LENGTH_SHORT).show();
